@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scoshield
-- 👀 I’m interested in software development, application security and cybersecurity
+- 👀 I’m interested in application development, application security and cybersecurity
 - 🌱 I’m currently working with PHP/VueJS/Python and Vanilla Javascript and learning CEH on the sides.
 - 💞️ I’m looking to collaborate on projects that would challenge my routine and stretch my learning spectrum. 
 - 📫 Interested to chat? You can reach me on Twitter @scoshield
