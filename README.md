@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scoshield
-- 👀 I’m interested in application development and information security
+- 👀 I’m interested in application development, digital forensics and information security
 - 🌱 I’m currently working with PHP/VueJS/Python and Javascript.
 - 💞️ I’m looking to collaborate on projects that would challenge my routine and stretch my learning spectrum. 
 - 📫 Interested to chat? You can reach me on Twitter @scoshield
